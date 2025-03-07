@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mudi</h1>
+<h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">Cloud Architect and DevOps Passionate</h3>
 
 <h3 align="left">Languages and Tools:</h3>
